@@ -14,7 +14,7 @@ from sklearn.decomposition import TruncatedSVD
 np.random.seed(1400)
 
 # path params
-dump_path = '/Users/kevin/Desktop/speed_challenge/data/dump/'
+dump_path = '/Users/Hp/Desktop/speed_challenge/data/dump/'
 
 def load_data(path):
 
